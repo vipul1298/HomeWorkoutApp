@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Workout</string>
+    <string name="developer">Vipul Chaurasia</string>
+    <string name="state">Uttar Pradesh</string>
+    <string name="Price">Price</string>
+    <string name="Time">Time taken</string>
+    <string name="link"><a href="https://www.youtube.com/watch?v=VFrKjhcTAzE">Click me</a></string>
+    <string name="quotes">“The clock is ticking. Are you becoming the person you want to be?”</string>
+    <string name="info">Hey! There are some of the exercises that may be new for you.
+    Explore it as these exercises are really effective. </string>
+    <string name="sets">Recommended 3-4 sets</string>
+</resources>
